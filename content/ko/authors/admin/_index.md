@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이경수
+title: 김수민
 
 # Full Name (for SEO)
 first_name: Kyungsu
@@ -11,7 +11,7 @@ authors:
   - admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 조교수

@@ -11,12 +11,12 @@ main:
     url: introduction
     weight: 100
   - parent: Introduction
-    name: Professor
-    url: /author/?��경수/
+    name: about ME
+    url: /author/김수민/
     weight: 110
   - parent: Introduction
-    name: Members
-    url: people
+    name: Recent Images
+    url: introduction
     weight: 120
 
 
@@ -25,7 +25,7 @@ main:
     weight: 200
   - parent: People
     name: Professor
-    url: /author/?��경수/
+    url: /author/이경수/
     weight: 210
   - parent: People
     name: Members
