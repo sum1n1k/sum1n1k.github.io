@@ -8,7 +8,7 @@ main:
   #   url: /
   #   weight: 1
   - name: Introduction
-    url: Introduction
+    url: introduction
     weight: 100
   - parent: Introduction
     name: Professor
