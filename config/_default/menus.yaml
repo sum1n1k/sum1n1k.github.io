@@ -7,16 +7,25 @@ main:
   # - name: Home
   #   url: /
   #   weight: 1
-  - name: About
-    url: about
+  - name: Introduction
+    url: Introduction
     weight: 100
+  - parent: Introduction
+    name: Professor
+    url: /author/?��경수/
+    weight: 110
+  - parent: Introduction
+    name: Members
+    url: people
+    weight: 120
+
 
   - name: People
     url: people
     weight: 200
   - parent: People
     name: Professor
-    url: /author/이경수/
+    url: /author/?��경수/
     weight: 210
   - parent: People
     name: Members
