@@ -7,6 +7,7 @@ main:
   # - name: Home
   #   url: /
   #   weight: 1
+
   - name: Introduction
     url: introduction
     weight: 100
@@ -15,7 +16,7 @@ main:
     url: /author/김수민/
     weight: 110
   - parent: Introduction
-    name: Recent Images
+    name: History
     url: introduction
     weight: 120
 
@@ -32,6 +33,7 @@ main:
     url: people
     weight: 220
 
+
   - name: Research
     url: publication
     weight: 300
@@ -44,14 +46,6 @@ main:
     url: field
     weight: 320
 
-  # - name: Projects
-  #   url: project
-  #   weight: 400
-
-
-  # - name: Coursework
-  #   url: publication
-  #   weight: 500
 
   - name: Inform
     url: post
