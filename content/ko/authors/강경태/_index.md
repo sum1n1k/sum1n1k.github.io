@@ -1,61 +1,57 @@
 ---
 # Display name
-title: 강경태
+title: 媛뺢꼍�깭
 
 # Full Name (for SEO)
-first_name: gyeongtae 강경태
-last_name: Kang
+first_name: Student
+last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - admin
+  - 媛뺢꼍�깭
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 대학생
+role: �븰遺��뿰援ъ깮
 
 # Organizations/Affiliations
 organizations:
-  - name: '<span style="color: initial; transition: color 0.3s;">경태의 개발연습</span>'
-    url: 'https://gyeongta1101.netlify.app'
-
+  - name: �쟾遺곷���븰援� 而댄벂�꽣怨듯븰遺�
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
+# bio: �뿰�빀�븰�뒿 諛� �몴�쁽 �븰�뒿�쓣 �궗�슜�븳 medical �룄硫붿씤�뿉�꽌�쓽 �뵦 �윭�떇 湲곕쾿, �룄硫붿씤 �쟻�쓳 諛� �뀒�뒪�듃 ����엫 �븰�뒿怨� 媛숈�� �뵦 �윭�떇 湲곕컲 而댄벂�꽣 鍮꾩쟾 �쓳�슜, �씠誘몄�� 泥섎━ 諛� �씠誘몄��-�뀓�뒪�듃 罹≪뀛�떇�쓣 �룷�븿�븳 �쓽猷� �쓳�슜�쓽 �뵦 �윭�떇 湲곕컲 吏꾨떒 �벑�쓣 �룷�븿�빀�땲�떎.
 
-interests:
-  - 인공지능 및 딥러닝
-  - 데이터 분석 및 빅데이터
-  - 소프트웨어 개발 및 프로그래밍
-  - 창업 및 아이디어 구현
-  - 사회 문제 해결 및 지속가능성
-  - 서비스 경험 및 소통
+# interests:
+#   - 
 
-education:
-  courses:
-    - course: 컴퓨터공학부
-      institution: 전북대학교(JBNU)
-      year: 2020 - 2025
-    - course: 일반계(이공계열)
-      institution: 전주고등학교
-      year: 2016 - 2019
+# education:
+#   courses:
+#     - course: Integrated M.S. & Ph.D. in (�쟾湲곗쟾�옄而댄벂�꽣怨듯븰怨�)
+#       institution: ���援ш꼍遺곴낵�븰湲곗닠�썝 (DGIST)
+#       year: 2018 - 2023
+#     - course: B.S. in (�쟾�궛�쟾�옄怨듯븰遺�)
+#       institution: �븳�룞����븰援�
+#       year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/gyeongtae1101/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gyeongtaekang
-  - icon: cv
-    icon_pack: ai
-    link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:ksl@jbnu.ac.kr'
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
+#   - icon: orcid
+#     icon_pack: ai
+#     link: https://orcid.org/0009-0000-7223-0903
+#   - icon: cv
+#     icon_pack: ai
+#     link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'namwon420@naver.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -71,9 +67,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - human
+  - Student
 
 
 ---
 
-전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
+<!-- Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications�씠�씪�뒗 �젣紐⑹쓽 �끉臾몄쑝濡� 2023�뀈 ���援ш꼍遺곴낵�븰湲곗닠�썝�뿉�꽌 �넻�빀 �꽍�궗 諛� 諛뺤궗 �븰�쐞瑜� 諛쏆븯�뒿�땲�떎. 2024�뀈�뿉 �쟾遺곷���븰援� 而댄벂�꽣�씤怨듭���뒫�븰遺��뿉 議곌탳�닔 position�쑝濡� �엫紐낅컺怨� �쁽�옱源뚯�� 洹쇰Т�븯怨� �엳�뒿�땲�떎. �뿰援� 遺꾩빞�뒗 �뿰�빀�븰�뒿 諛� �몴�쁽 �븰�뒿�쓣 �궗�슜�븳 medical �룄硫붿씤�뿉�꽌�쓽 �뵦 �윭�떇 湲곕쾿, �룄硫붿씤 �쟻�쓳 諛� �뀒�뒪�듃 ����엫 �븰�뒿怨� 媛숈�� �뵦 �윭�떇 湲곕컲 而댄벂�꽣 鍮꾩쟾 �쓳�슜, �씠誘몄�� 泥섎━瑜� �룷�븿�븯怨� �엳�쑝硫�, AI�쓽 �씠濡좊���꽣 �떎�뼇�븳 �듅�꽦�솕 遺꾩빞�쓽 �뼱�뵆由ъ���씠�뀡源뚯�� �꼻��� 踰붿쐞瑜� �룷�븿�븯怨� �엳�뒿�땲�떎.  -->

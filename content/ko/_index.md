@@ -9,8 +9,8 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
-      text: <br><span style="font-size:125%">전북대학교 의료 AI 및 계산 과학 연구실 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
+      text: <br><span style="font-size:125%">�쟾遺곷���븰援� �쓽猷� AI 諛� 怨꾩궛 怨쇳븰 �뿰援ъ떎 �솃�럹�씠吏��뿉 �삤�떊 寃껋쓣 �솚�쁺�빀�땲�떎.</span> <br><br>
+        {{% cta cta_link="./field/" cta_text="See Research Field �넂" %}}
 
 
   - block: slider
@@ -35,7 +35,7 @@ sections:
           url: contact
 
       - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+        content: <span style="font-size:70%">�쓽猷�/�빆怨듭슦二�/而⑦뀗痢� �벑 �듅�꽦�솕 遺꾩빞�뿉 �쟻�슜 媛��뒫�븳 AI 湲곗닠 媛쒕컻<span style="font-size:70%">
         align: center
         background:
           image:
@@ -46,7 +46,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+        content: <span style="font-size:70%">�쓽猷� 諛� �뿬�뒪耳��뼱 遺꾩빞�뿉 �쟻�슜 媛��뒫�븳 AI 湲곗닠 媛쒕컻</span>
         align: center
         background:
           image:
@@ -57,7 +57,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+        content: <span style="font-size:70%">AI��� 愿��젴�맂 �닔�븰 諛� 理쒖쟻�솕 �씠濡� �뿰援�</span>
         align: center
         background:
           image:
@@ -68,7 +68,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+        content: <span style="font-size:70%">湲곕컲 湲곗닠�쓣 �솢�슜�븳 Full-Stack �뼱�뵆由ъ���씠�뀡 媛쒕컻</span>
         align: center
         background:
           image:
@@ -93,32 +93,32 @@ sections:
     id: features
     content:
       title: <span style="font-size:75%">Lab's Interests</span>
-      text: 저희 연구실에서는 다음과 같은 연구/개발 분야에 관심을 쏟고 있습니다.<br><br><br><br>
+      text: ����씗 �뿰援ъ떎�뿉�꽌�뒗 �떎�쓬怨� 媛숈�� �뿰援�/媛쒕컻 遺꾩빞�뿉 愿��떖�쓣 �룦怨� �엳�뒿�땲�떎.<br><br><br><br>
       items:
-        - name: 인공지능(AI)
+        - name: �씤怨듭���뒫(AI)
           icon: code-branch
           icon_pack: fas
-          description: <span style="font-size:90%">의료 (Medical), 항공우주 (Aerospace), 컨텐츠 (Contents) 등 다양한 특성화 분야에 적응형 AI 기술 적용.</span><br><br>
-        - name: 멀티모달(Multi-modality)
+          description: <span style="font-size:90%">�쓽猷� (Medical), �빆怨듭슦二� (Aerospace), 而⑦뀗痢� (Contents) �벑 �떎�뼇�븳 �듅�꽦�솕 遺꾩빞�뿉 �쟻�쓳�삎 AI 湲곗닠 �쟻�슜.</span><br><br>
+        - name: 硫��떚紐⑤떖(Multi-modality)
           icon: globe
           icon_pack: fas
-          description:  <span style="font-size:90%">Vision & Language 분야의 기반 AI 기술 개발 및 관련 응용 어플리케이션에 기술 적용.</span><br><br>
-        - name: 의료수학(Medical Math)
+          description:  <span style="font-size:90%">Vision & Language 遺꾩빞�쓽 湲곕컲 AI 湲곗닠 媛쒕컻 諛� 愿��젴 �쓳�슜 �뼱�뵆由ъ���씠�뀡�뿉 湲곗닠 �쟻�슜.</span><br><br>
+        - name: �쓽猷뚯닔�븰(Medical Math)
           icon: calculator
           icon_pack: fas
-          description:  <span style="font-size:90%">의료 분야에 대한 통계 분석 수행 및 의료 질병에 대한 수학적인 모델링 관련 연구 수행.</span><br><br>
-        - name: 컨텐츠 (Contents)
+          description:  <span style="font-size:90%">�쓽猷� 遺꾩빞�뿉 ����븳 �넻怨� 遺꾩꽍 �닔�뻾 諛� �쓽猷� 吏덈퀝�뿉 ����븳 �닔�븰�쟻�씤 紐⑤뜽留� 愿��젴 �뿰援� �닔�뻾.</span><br><br>
+        - name: 而⑦뀗痢� (Contents)
           icon: comment-dots
           icon_pack: fas
-          description:  <span style="font-size:90%">웹툰 및 미디어 컨텐츠와 관련된 AI 기반 기술 개발 및 고도화.</span><br><br>
-        - name: 개발 (Development)
+          description:  <span style="font-size:90%">�쎒�댆 諛� 誘몃뵒�뼱 而⑦뀗痢좎�� 愿��젴�맂 AI 湲곕컲 湲곗닠 媛쒕컻 諛� 怨좊룄�솕.</span><br><br>
+        - name: 媛쒕컻 (Development)
           icon: laptop
           icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
-        - name: 솔루션 (Solution)
+          description:  <span style="font-size:90%">Full-Stack 湲곕컲�쓽 �쓳�슜 �뼱�뵆由ъ���씠�뀡 媛쒕컻.</span><br><br>
+        - name: �넄猷⑥뀡 (Solution)
           icon: app-store-ios
           icon_pack: fab
-          description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
+          description:  <span style="font-size:90%">AI 湲곕컲湲곗닠 諛� 愿��젴 �뼱�뵆由ъ���씠�뀡�뿉 �쟻�슜�쓣 �넻�븳 �넻�빀 �넄猷⑥뀡 媛쒕컻!</span><br><br>
 
 
   - block: collection
@@ -165,7 +165,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+        {{% cta cta_link="./contact/" cta_text="Join team �넂" %}}
     design:
       columns: '1'
 ---
