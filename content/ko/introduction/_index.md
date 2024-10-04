@@ -5,7 +5,7 @@ title: My history
 subtitle:
 
 experience:
-  - title:
+  - title: MacsLab 학부연구생 시작
     company: 전북대학교 MacsLAB
     company_url: 'https://jbnu.macs.or.kr/'
     company_logo: Macslab_logo.png
@@ -32,4 +32,6 @@ experience:
     date_end: ''
     description: 전북대학교 컴퓨터공학부(컴퓨터공학) 입학
 
+design:
+  columns: '1'
 ---
