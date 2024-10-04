@@ -9,11 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
-      email: ksl(at)jbnu.ac.kr
-      phone: +82-63-270-2406
+        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부(컴퓨터공학) 22학번 김수민
+        메일을 확인 일시는 확답을 드릴 수 없음 주의</span> <br>
+      email: sumnk27@jbnu.ac.kr
       address:
-        street: 전북대학교 공과대학 7호관 626호
+        street: 전북대학교 공과대학 7호관
         city: 전주시
         region: 전라북도
         postcode: '54896'
@@ -22,13 +22,8 @@ sections:
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
-      directions: 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
+      office_hours: 'Monday-Friday 9:00 to 19:00'
+ 
       # Automatically link email and phone or display as text?
       autolink: true
     
