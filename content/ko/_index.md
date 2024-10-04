@@ -68,7 +68,7 @@ sections:
       slides:
 
       - title: <span style="font-size:70%">천문학</span>
-        content: <span style="font-size:70%, line-height:0.3;">우주, 지구 관련 과학과 이슈들에 대한 관심<br>관심 있으시다면 아래 링크에 방문해보세요!</span>
+        content: <span style="font-size:70%; line-height:0.3;">우주, 지구 관련 과학과 이슈들에 대한 관심<br>관심 있으시다면 아래 링크에 방문해보세요!</span>
         align: center
         background:
           image:
@@ -96,7 +96,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">컴퓨터공학</span>
-        content: <span style="font-size:70%">하드웨어와 소프트웨어 모두에 대한 관심<br>정보 보안에 대한 관심</span>
+        content: <span style="font-size:70%; line-height:0.3;">하드웨어와 소프트웨어 모두에 대한 관심<br>정보 보안에 대한 관심</span>
         align: center
         background:
           image:
