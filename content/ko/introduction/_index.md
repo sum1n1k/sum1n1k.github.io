@@ -6,30 +6,30 @@ subtitle:
 
 experience:
   - title:
-    company: ÀüºÏ´ëÇĞ±³ MacsLAB
+    company: ì „ë¶ëŒ€í•™êµ MacsLAB
     company_url: 'https://jbnu.macs.or.kr/'
-    # company_logo: Macslab_logo.png
+    company_logo: Macslab_logo.png
     location: Jeonju, Republic of Korea
     date_start: '2024-09-03'
     date_end: ''
-    description: ÀÌ°æ¼ö ±³¼ö´Ô MacsLab¿¡ ÇĞºÎ¿¬±¸»ıÀ¸·Î ÇÕ·ù
+    description: ì´ê²½ìˆ˜ êµìˆ˜ë‹˜ MacsLabì— í•™ë¶€ì—°êµ¬ìƒìœ¼ë¡œ í•©ë¥˜
 
-  - title: ºòµ¥ÀÌÅÍAI ¿¬°èÀü°ø ½ÃÀÛ
-    company: ºòµ¥ÀÌÅÍÇõ½ÅÀ¶ÇÕ´ëÇĞ
+  - title: ë¹…ë°ì´í„°AI ì—°ê³„ì „ê³µ ì‹œì‘
+    company: ë¹…ë°ì´í„°í˜ì‹ ìœµí•©ëŒ€í•™
     company_url: 'https://bigdatahub.ac.kr/'
-    # company_logo: coss_logo.png
+    company_logo: coss_logo.png
     location: Jeonju, Republic of Korea
     date_start: '2023-09-01'
     date_end: ''
-    description: Åë°èÇĞ°ú ¿¬°èÀü°øÀ¸·Î ÃÑ 15°³ ¼ö¾÷ Áß 36ÇĞÁ¡ ÀÌ»ó ÀÌ¼ö ÇÊ¿ä
+    description: í†µê³„í•™ê³¼ ì—°ê³„ì „ê³µìœ¼ë¡œ ì´ 15ê°œ ìˆ˜ì—… ì¤‘ 36í•™ì  ì´ìƒ ì´ìˆ˜ í•„ìš”
 
-  - title: ÀüºÏ´ëÇĞ±³ ÀÔÇĞ
-    company: ÀüºÏ´ëÇĞ±³
+  - title: ì „ë¶ëŒ€í•™êµ ì…í•™
+    company: ì „ë¶ëŒ€í•™êµ
     company_url: 'https://www.jbnu.ac.kr/kor/'
-    # company_logo: JBNU_ko.png
+    company_logo: JBNU_ko.png
     location: Jeonju, Republic of Korea
     date_start: '2022-03-01'
     date_end: ''
-    description: ÀüºÏ´ëÇĞ±³ ÄÄÇ»ÅÍ°øÇĞºÎ(ÄÄÇ»ÅÍ°øÇĞ) ÀÔÇĞ
+    description: ì „ë¶ëŒ€í•™êµ ì»´í“¨í„°ê³µí•™ë¶€(ì»´í“¨í„°ê³µí•™) ì…í•™
 
 ---
