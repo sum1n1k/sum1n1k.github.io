@@ -12,7 +12,7 @@ experience:
   - title: MacsLab 학부연구생 시작
     company: 전북대학교 MacsLAB
     company_url: 'https://jbnu.macs.or.kr/'
-    company_logo: Macslab_logo.png
+    company_logo: 'Macslab_logo.png'
     location: Jeonju, Republic of Korea
     date_start: '2024-09-03'
     date_end: ''
@@ -21,7 +21,7 @@ experience:
   - title: 빅데이터AI 연계전공 시작
     company: 빅데이터혁신융합대학
     company_url: 'https://bigdatahub.ac.kr/'
-    company_logo: coss_logo.png
+    company_logo: 'coss_logo.png'
     location: Jeonju, Republic of Korea
     date_start: '2023-09-01'
     date_end: ''
@@ -30,7 +30,7 @@ experience:
   - title: 전북대학교 입학
     company: 전북대학교
     company_url: 'https://www.jbnu.ac.kr/kor/'
-    company_logo: JBNU_ko.png
+    company_logo: 'JBNU_ko.png'
     location: Jeonju, Republic of Korea
     date_start: '2022-03-01'
     date_end: ''
