@@ -1,8 +1,10 @@
 ---
-type: widget_page
+widget: experience
 
 title: My History
 subtitle:
+
+date_format: Oct 2024
 
 weight: 10
 
