@@ -1,8 +1,9 @@
 ---
 type: widget_page
+
 widget: experience
 
-title: My history
+title: My History
 subtitle:
 
 experience:
@@ -35,4 +36,5 @@ experience:
 
 design:
   columns: '1'
+
 ---
