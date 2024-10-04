@@ -13,9 +13,8 @@ sections:
       text: <br><span style="font-size:125%">**안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.** <br><span style="font-size:100%">현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.</span> <br> **[더 자세히 알아보기](/content/ko/authors/김수민/)<br><br>
 
   - block: features
-    id: features
     content:
-      title: <span style="font-size: 75%">Academic Interests</span>
+      title: <span style="font-size:75%">Academic Interests</span>
       items:
         - name: 천문학(Astronomy)
           icon: moon
@@ -32,9 +31,8 @@ sections:
 
 
   - block: features
-    id: features
     content:
-      title: <span style="font-size: 75%">Personal Favorite</span>
+      title: <span style="font-size:75%">Personal Favorite</span>
       items:
         - name: 여행(Travel)
           icon: plane
