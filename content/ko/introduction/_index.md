@@ -1,5 +1,5 @@
 ---
-widget: experience
+type: experience
 
 title: My history
 subtitle:
