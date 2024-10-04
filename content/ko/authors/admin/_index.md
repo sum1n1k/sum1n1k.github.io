@@ -22,7 +22,7 @@ organizations:
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+bio: 현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.
 
 interests:
   - 인공지능 (AI)
