@@ -4,8 +4,6 @@ widget: experience
 title: My History
 subtitle:
 
-date_format: Oct 2024
-
 weight: 20
 
 experience:
