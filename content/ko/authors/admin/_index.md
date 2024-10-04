@@ -3,18 +3,18 @@
 title: 김수민
 
 # Full Name (for SEO)
-first_name: Kyungsu
-last_name: Lee
+first_name: Sumin
+last_name: Kim
 
 # Username (this should match the folder name)
 authors:
   - admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 조교수
+role: 대학생
 
 # Organizations/Affiliations
 organizations:
@@ -26,38 +26,34 @@ bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 
 
 interests:
   - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
+  - 빅데이터 (Big-Data)
+  - 천문학 (Astronomy)
+  - 정보보안 (Information Security)
   - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
   - 개발 (Development & Deploy)
 
 education:
   courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
+    - course: B.S. in (컴퓨터공학부(컴퓨터공학))
+      institution: 전북대학교
+      year: 2022 ~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ksl@jbnu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
-  - icon: cv
-    icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+    link: 'mailto:sumnk27@jbnu.ac.kr'
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/sum_n03?igsh=MThpZjdzcm9hbWNwYQ%3D%3D&utm_source=qr
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sum1n1k
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,4 +74,4 @@ user_groups:
 
 ---
 
-Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications이라는 제목의 논문으로 2023년 대구경북과학기술원에서 통합 석사 및 박사 학위를 받았습니다. 2024년에 전북대학교 컴퓨터인공지능학부에 조교수 position으로 임명받고 현재까지 근무하고 있습니다. 연구 분야는 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리를 포함하고 있으며, AI의 이론부터 다양한 특성화 분야의 어플리케이션까지 넓은 범위를 포함하고 있습니다. 
+처음 제 자신의 개인정보 보호에 대한 관심으로 시작해 컴퓨터로 번진 흥미로 인해 2022년 전북대학교 컴퓨터공학부에 입학하여 현재까지 학부생으로서 공부하고 있습니다. 또한 1학년 때 교양 수업으로 들었던 통계학에 재미를 느껴 2023년부터 빅데이터AI를 연계전공하고 있습니다. 현재 학부연구생으로서 MacsLab에 소속되어 있으며, 학창시절 좋아했던 우주와 천제, 지구과학에 대한 관심을 확장시켜 항공우주AI 분야를 연구해보려 하고 있습니다. 그에 더하여 앞으로 보안 공부도 조금씩 해보려고 합니다.

@@ -36,7 +36,7 @@ education:
   courses:
     - course: B.S. in (컴퓨터공학부(컴퓨터공학))
       institution: 전북대학교
-      year: 2022~
+      year: 2022 ~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
