@@ -8,18 +8,56 @@ sections:
 
   - block: about.avatar
     content:
-      title: '' # <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
+      title: ''
       username: admin
-      text: <br><span style="font-size:125%">안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.</span> <br><br>
-        # {{% cta cta_link="./field/" cta_text="See Research Field �넂" %}}
+      text: <br><span style="font-size:125%">**안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.** <br><span style="font-size:100%">현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.</span> <br> **[더 자세히 알아보기](/content/ko/authors/김수민/)<br><br>
+
+  - block: features
+    content:
+      title: <span style="font-size: 75%">Academic Interests</span>
+      items:
+        - name: 천문학(Astronomy)
+          icon: moon
+          icon_pack: fas
+          # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
+        - name: 통계학(Statistics)
+          icon: chart-pie
+          icon_pack: fas
+          # description:  <span style="font-size:90%">동물을 좋아합니다. 고양이를 특히 좋아합니다. 고래 같은 해양생물을 좋아해 아쿠아리움 가기를 즐깁니다.</span><br><br>
+        - name: 컴퓨터공학(Computer Engineering)
+          icon: computer
+          icon_pack: fas
+          # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
+
+
+  - block: features
+    content:
+      title: <span style="font-size: 75%">Personal Favorite</span>
+      items:
+        - name: 여행(Travel)
+          icon: plane
+          icon_pack: fas
+          # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
+        - name: 동물(Animal)
+          icon: cat
+          icon_pack: fas
+          # description:  <span style="font-size:90%">동물을 좋아합니다. 고양이를 특히 좋아합니다. 고래 같은 해양생물을 좋아해 아쿠아리움 가기를 즐깁니다.</span><br><br>
+        - name: 음악(Music)
+          icon: headphones
+          icon_pack: fas
+          # description:  <span style="font-size:90%">음악 듣는 걸 좋아합니다. 장르, 나라 상관없이 듣습니다. 하지만 다 좋아하진 않습니다.</span><br><br>
+        - name: 영화(Movie)
+          icon: film
+          icon_pack: fas
+          # description:  <span style="font-size:90%">영화 보는 것을 좋아합니다. .</span><br><br>
 
 
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">천문학</span>
+        content: <span style="font-size:70%">우주, 지구 관련 과학과 이슈들에 대한 관심<br>관심 있으시다면 아래 링크에 방문해보세요!</span>
         align: center
         background:
           image:
@@ -29,14 +67,14 @@ sections:
           position: center
           color: '#000'
         link:
-          icon: user
+          icon: moon
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">SPACE WEATHER</span>
           text-color: '#000'
-          url: contact
+          url: 'https://spaceweather.com/'
 
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">�쓽猷�/�빆怨듭슦二�/而⑦뀗痢� �벑 �듅�꽦�솕 遺꾩빞�뿉 �쟻�슜 媛��뒫�븳 AI 湲곗닠 媛쒕컻<span style="font-size:70%">
+      - title: <span style="font-size:70%">통계학</span>
+        content: <span style="font-size:70%">통계와 컴퓨터과학의 연관성, 빅데이터에 대한 관심<span style="font-size:70%">
         align: center
         background:
           image:
@@ -46,8 +84,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">�쓽猷� 諛� �뿬�뒪耳��뼱 遺꾩빞�뿉 �쟻�슜 媛��뒫�븳 AI 湲곗닠 媛쒕컻</span>
+      - title: <span style="font-size:70%">컴퓨터공학</span>
+        content: <span style="font-size:70%">하드웨어와 소프트웨어 모두에 대한 관심<br>정보 보안에 대한 관심</span>
         align: center
         background:
           image:
@@ -57,8 +95,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI��� 愿��젴�맂 �닔�븰 諛� 理쒖쟻�솕 �씠濡� �뿰援�</span>
+      - title: <span style="font-size:70%">여행</span>
+        content: <span style="font-size:70%">국내여행, 해외여행 상관없이 좋아함</span>
         align: center
         background:
           image:
@@ -68,8 +106,30 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">湲곕컲 湲곗닠�쓣 �솢�슜�븳 Full-Stack �뼱�뵆由ъ���씠�뀡 媛쒕컻</span>
+      - title: <span style="font-size:70%">동물</span>
+        content: <span style="font-size:70%">육상동물 중에는 고양이,해양동물 중에는 고래 특히 좋아함</span>
+        align: center
+        background:
+          image:
+            filename: development.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">음악</span>
+        content: <span style="font-size:70%">장르, 나라 상관없이 노래 듣는 거 좋아함</span>
+        align: center
+        background:
+          image:
+            filename: development.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">영화</span>
+        content: <span style="font-size:70%">비오는 날에 집에서 혼자 맛있는 거 챙겨서 영화 보는 거 좋아함</span>
         align: center
         background:
           image:
@@ -87,86 +147,67 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 3000
+      interval: 1000
 
 
-  - block: features
-    id: features
+  - block: portfolio
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
-      text: ����씗 �뿰援ъ떎�뿉�꽌�뒗 �떎�쓬怨� 媛숈�� �뿰援�/媛쒕컻 遺꾩빞�뿉 愿��떖�쓣 �룦怨� �엳�뒿�땲�떎.<br><br><br><br>
-      items:
-        - name: �씤怨듭���뒫(AI)
-          icon: code-branch
-          icon_pack: fas
-          description: <span style="font-size:90%">�쓽猷� (Medical), �빆怨듭슦二� (Aerospace), 而⑦뀗痢� (Contents) �벑 �떎�뼇�븳 �듅�꽦�솕 遺꾩빞�뿉 �쟻�쓳�삎 AI 湲곗닠 �쟻�슜.</span><br><br>
-        - name: 硫��떚紐⑤떖(Multi-modality)
-          icon: globe
-          icon_pack: fas
-          description:  <span style="font-size:90%">Vision & Language 遺꾩빞�쓽 湲곕컲 AI 湲곗닠 媛쒕컻 諛� 愿��젴 �쓳�슜 �뼱�뵆由ъ���씠�뀡�뿉 湲곗닠 �쟻�슜.</span><br><br>
-        - name: �쓽猷뚯닔�븰(Medical Math)
-          icon: calculator
-          icon_pack: fas
-          description:  <span style="font-size:90%">�쓽猷� 遺꾩빞�뿉 ����븳 �넻怨� 遺꾩꽍 �닔�뻾 諛� �쓽猷� 吏덈퀝�뿉 ����븳 �닔�븰�쟻�씤 紐⑤뜽留� 愿��젴 �뿰援� �닔�뻾.</span><br><br>
-        - name: 而⑦뀗痢� (Contents)
-          icon: comment-dots
-          icon_pack: fas
-          description:  <span style="font-size:90%">�쎒�댆 諛� 誘몃뵒�뼱 而⑦뀗痢좎�� 愿��젴�맂 AI 湲곕컲 湲곗닠 媛쒕컻 諛� 怨좊룄�솕.</span><br><br>
-        - name: 媛쒕컻 (Development)
-          icon: laptop
-          icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 湲곕컲�쓽 �쓳�슜 �뼱�뵆由ъ���씠�뀡 媛쒕컻.</span><br><br>
-        - name: �넄猷⑥뀡 (Solution)
-          icon: app-store-ios
-          icon_pack: fab
-          description:  <span style="font-size:90%">AI 湲곕컲湲곗닠 諛� 愿��젴 �뼱�뵆由ъ���씠�뀡�뿉 �쟻�슜�쓣 �넻�븳 �넻�빀 �넄猷⑥뀡 媛쒕컻!</span><br><br>
-
-
-  - block: collection
-    content:
-      id: section-1
-      title: Notifications & News
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - notification
-          - post
-          - event
+      title: ''
+      page_type: project
+      filter_default: 0
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: C++
+          tag: 'Tree'
+        - name: JAVA
+          tag: 'RG'
+        - name: AI
+          tag: 'AI'
+    
     design:
-      view: community/custom_card
-      columns: '2'
+      colums: '1'
+      view: masonry
+      flip_alt_rows: true
+      background: {}
+      spacing: {padding: [0, 0, 0, 0]}
+  # - block: collection
+  #   content:
+  #     id: section-1
+  #     title: Notifications & News
+  #     subtitle:
+  #     text:
+  #     count: 3
+  #     offset: 0
+  #     order: desc
+  #     filters:
+  #       folders:
+  #         - notification
+  #         - post
+  #         - event
+  #   design:
+  #     view: community/custom_card
+  #     columns: '2'
 
-  - block: collection
-    content:
-      title: Latest Publications
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publication
-    design:
-      view: community/custom_card
-      columns: '2'
-    advanced:
-      css_style: "text-align: center;"
+  # - block: collection
+  #   content:
+  #     title: Latest Publications
+  #     subtitle:
+  #     text:
+  #     count: 3
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: publication
+  #   design:
+  #     view: community/custom_card
+  #     columns: '2'
+  #   advanced:
+  #     css_style: "text-align: center;"
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./contact/" cta_text="Join team �넂" %}}
-    design:
-      columns: '1'
 ---
