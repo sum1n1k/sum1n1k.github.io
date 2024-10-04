@@ -1,7 +1,5 @@
 ---
-type: widget_page
-
-widget: experience
+type: experience
 
 title: My History
 subtitle:
@@ -36,5 +34,4 @@ experience:
 
 design:
   columns: '1'
-
 ---
