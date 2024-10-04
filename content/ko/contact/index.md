@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        <br><span style="font-size:100%; line-height: 0.3">전북대학교 컴퓨터공학부(컴퓨터공학) 22학번 김수민</span><br>
+        <br><span style="font-size:100%; line-height: 0.3;">전북대학교 컴퓨터공학부(컴퓨터공학) 22학번 김수민
         <br><span style="font-size:80%">메일을 확인 일시는 확답을 드릴 수 없음 주의</span><br>
       email: sumnk27@jbnu.ac.kr
       address:
