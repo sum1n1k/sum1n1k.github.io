@@ -12,7 +12,7 @@ main:
     url: introduction
     weight: 100
   - parent: Introduction
-    name: about ME
+    name: About ME
     url: /author/김수민/
     weight: 110
   - parent: Introduction
@@ -21,49 +21,53 @@ main:
     weight: 120
 
 
-  - name: People
+  - name: Education
     url: people
     weight: 200
-  - parent: People
-    name: Professor
+  - parent: Education
+    name: Lectures Taken
     url: /author/이경수/
     weight: 210
-  - parent: People
-    name: Members
+  - parent: Education
+    name: Programming Languages
     url: people
     weight: 220
 
 
-  - name: Research
+  - name: Activities
     url: publication
     weight: 300
-  - parent: Research
-    name: Publications
+  - parent: Activities
+    name: Projects
     url: publication
     weight: 310
-  - parent: Research
-    name: Research Fields
+  - parent: Activities
+    name: School Clubs
     url: field
     weight: 320
 
 
-  - name: Inform
+  - name: Future Plans
     url: post
     weight: 600
-  - parent: Inform
-    name: Notifications
+  - parent: Future Plans
+    name: Job-Related
     url: notification
     weight: 610
-  - parent: Inform
-    name: News
+  - parent: Future Plans
+    name: Not Job-Related
     url: post
     weight: 620
-  - parent: Inform
-    name: Event
-    url: event
-    weight: 630
 
 
   - name: Contact
     url: contact
     weight: 700
+  - parent: Contact
+    name: About LOGO
+    url: event
+    weight: 710
+  - parent: Contact
+    name: How to Contact
+    url: contact
+    weight: 720
