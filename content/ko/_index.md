@@ -10,7 +10,7 @@ sections:
     content:
       title: ''
       username: admin
-      text: <br><span style="font-size:125%">**안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.** <br><span style="font-size:100%">현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.</span> <br> **[더 자세히 알아보기](/content/ko/authors/김수민/)**<br><br>
+      text: <br><span style="font-size:125%">**안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.** <br><span style="font-size:70%">현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.</span> <br> **[더 자세히 알아보기](/content/ko/authors/김수민/)**<br><br>
 
   - block: features
     content:
@@ -19,14 +19,17 @@ sections:
         - name: 천문학(Astronomy)
           icon: moon
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
         - name: 통계학(Statistics)
           icon: chart-pie
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description:  <span style="font-size:90%">동물을 좋아합니다. 고양이를 특히 좋아합니다. 고래 같은 해양생물을 좋아해 아쿠아리움 가기를 즐깁니다.</span><br><br>
         - name: 컴퓨터공학(Computer Engineering)
           icon: computer
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
     design:
       class: "custom-icon-spacing"
@@ -39,18 +42,22 @@ sections:
         - name: 여행(Travel)
           icon: plane
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
         - name: 동물(Animal)
           icon: cat
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description:  <span style="font-size:90%">동물을 좋아합니다. 고양이를 특히 좋아합니다. 고래 같은 해양생물을 좋아해 아쿠아리움 가기를 즐깁니다.</span><br><br>
         - name: 음악(Music)
           icon: headphones
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description:  <span style="font-size:90%">음악 듣는 걸 좋아합니다. 장르, 나라 상관없이 듣습니다. 하지만 다 좋아하진 않습니다.</span><br><br>
         - name: 영화(Movie)
           icon: film
           icon_pack: fas
+          style: "margin-right: 10px;"
           # description:  <span style="font-size:90%">영화 보는 것을 좋아합니다. .</span><br><br>
     design:
       class: "features-container"
@@ -61,7 +68,7 @@ sections:
       slides:
 
       - title: <span style="font-size:70%">천문학</span>
-        content: <span style="font-size:70%">우주, 지구 관련 과학과 이슈들에 대한 관심<br>관심 있으시다면 아래 링크에 방문해보세요!</span>
+        content: <span style="font-size:70%, line-height: 0.3;">우주, 지구 관련 과학과 이슈들에 대한 관심<br>관심 있으시다면 아래 링크에 방문해보세요!</span>
         align: center
         background:
           image:
@@ -78,7 +85,7 @@ sections:
           url: 'https://spaceweather.com/'
 
       - title: <span style="font-size:70%">통계학</span>
-        content: <span style="font-size:70%">통계와 컴퓨터과학의 연관성, 빅데이터에 대한 관심<span style="font-size:70%">
+        content: <span style="font-size:70%">통계와 컴퓨터과학의 연관성, 빅데이터에 대한 관심</span>
         align: center
         background:
           image:
@@ -151,12 +158,12 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 1000
+      interval: 3000
 
 
   - block: portfolio
     content:
-      title: ''
+      title: 'Project'
       page_type: project
       filter_default: 0
       filter_button:
@@ -175,6 +182,7 @@ sections:
       flip_alt_rows: true
       background: {}
       spacing: {padding: [0, 0, 0, 0]}
+
   # - block: collection
   #   content:
   #     id: section-1
