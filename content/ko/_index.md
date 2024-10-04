@@ -6,11 +6,12 @@ type: landing
 
 sections:
 
-  - block: features
+  - block: about.avatar
     content:
-      title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
-      text: <br><span style="font-size:125%">�쟾遺곷���븰援� �쓽猷� AI 諛� 怨꾩궛 怨쇳븰 �뿰援ъ떎 �솃�럹�씠吏��뿉 �삤�떊 寃껋쓣 �솚�쁺�빀�땲�떎.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field �넂" %}}
+      title: '' # <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
+      username: admin
+      text: <br><span style="font-size:125%">안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.</span> <br><br>
+        # {{% cta cta_link="./field/" cta_text="See Research Field �넂" %}}
 
 
   - block: slider
