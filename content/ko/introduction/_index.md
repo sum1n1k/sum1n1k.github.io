@@ -22,7 +22,7 @@ experience:
     date_start: '2023-09-01'
     date_end: ''
     description: 통계학과 연계전공으로 총 15개 수업 중 36학점 이상 이수 필요
-    
+
   - title: 전북대학교 입학
     company: 전북대학교
     company_url: 'https://www.jbnu.ac.kr/kor/'
@@ -31,3 +31,5 @@ experience:
     date_start: '2022-03-01'
     date_end: ''
     description: 전북대학교 컴퓨터공학부(컴퓨터공학) 입학
+
+    ---
