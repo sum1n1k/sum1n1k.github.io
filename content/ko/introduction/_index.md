@@ -32,4 +32,4 @@ experience:
     date_end: ''
     description: 전북대학교 컴퓨터공학부(컴퓨터공학) 입학
 
-    ---
+---
