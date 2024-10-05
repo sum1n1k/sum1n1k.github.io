@@ -31,7 +31,7 @@ main:
 
 
   - name: Activities
-    url: field
+    url: project
     weight: 300
   - parent: Activities
     name: Projects
@@ -39,7 +39,7 @@ main:
     weight: 310
   - parent: Activities
     name: School Clubs
-    url: field
+    url: schoolclubs
     weight: 320
 
 
