@@ -4,16 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: Home
-  #   url: /
-  #   weight: 1
-
   - name: Introduction
     url: introduction
     weight: 100
   - parent: Introduction
     name: About ME
-    url: /author/源��닔誘�/
+    url: /author/김수민/
     weight: 110
   - parent: Introduction
     name: History
@@ -22,15 +18,15 @@ main:
 
 
   - name: Education
-    url: people
+    url: lectures
     weight: 200
   - parent: Education
     name: Lectures Taken
-    url: /author/�씠寃쎌닔/
+    url: lectures
     weight: 210
   - parent: Education
     name: Programming Languages
-    url: people
+    url: event
     weight: 220
 
 
