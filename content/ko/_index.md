@@ -109,7 +109,7 @@ sections:
         align: center
         background:
           image:
-            filename: mathematics.jpg
+            filename: travel.jpg
             filters:
               brightness: 0.4
           position: center
