@@ -1,5 +1,5 @@
 ---
-title: ACE
+title: ACE(에이스)
 
 location: 전북대학교 테니스 코트
 
@@ -15,7 +15,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
