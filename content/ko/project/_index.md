@@ -1,5 +1,5 @@
 ---
-title: **Projects**<br><br>
+title: Projects
 
 # Listing view
 view: community/custom_card
