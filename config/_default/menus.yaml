@@ -61,7 +61,7 @@ main:
     weight: 700
   - parent: Contact
     name: About LOGO
-    url: publication
+    url: aboutlogo
     weight: 710
   - parent: Contact
     name: How to Contact
