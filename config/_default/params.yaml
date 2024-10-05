@@ -14,11 +14,12 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: profile
     local_business_type: ''
-    org_name: 'MacsLAB'
-    description: 'MacsLAB in Jeonbuk National Univ.'
-    twitter: 'GetResearchDev'
+    org_name: '전북대학교'
+    description: '전북대학교 컴퓨터공학부(컴퓨터공학) 김수민의 자기소개 사이트입니다.'
+    twitter: ''
+    keywords: ['전북대학교', '컴퓨터공학부', '컴퓨터공학', 'profile', '전북대 김수민']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,6 +40,13 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "LOGO.png"
+    button:
+      enable: true
+      url: "https://sum1n1k.github.io/"
 
 # Site footer
 
