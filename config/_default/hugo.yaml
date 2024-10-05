@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SUMIN KIM # Website name
-baseURL: 'https://jbnu.macs.or.kr/' # Website URL
+baseURL: 'https://sum1n1k.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
