@@ -16,10 +16,10 @@ marketing:
   seo:
     site_type: profile
     local_business_type: ''
-    org_name: 'ÀüºÏ´ëÇĞ±³'
-    description: 'ÀüºÏ´ëÇĞ±³ ÄÄÇ»ÅÍ°øÇĞºÎ(ÄÄÇ»ÅÍ°øÇĞ) ±è¼ö¹ÎÀÇ ÀÚ±â¼Ò°³ »çÀÌÆ®ÀÔ´Ï´Ù.'
+    org_name: 'ì „ë¶ëŒ€í•™êµ'
+    description: 'ì „ë¶ëŒ€í•™êµ ì»´í“¨í„°ê³µí•™ë¶€(ì»´í“¨í„°ê³µí•™) ê¹€ìˆ˜ë¯¼ì˜ ìê¸°ì†Œê°œ ì‚¬ì´íŠ¸ì…ë‹ˆë‹¤.'
     twitter: ''
-    keywords: ['ÀüºÏ´ëÇĞ±³', 'ÄÄÇ»ÅÍ°øÇĞºÎ', 'ÄÄÇ»ÅÍ°øÇĞ', 'profile', 'ÀüºÏ´ë ±è¼ö¹Î']
+    keywords: ['ì „ë¶ëŒ€í•™êµ', 'ì»´í“¨í„°ê³µí•™ë¶€', 'ì»´í“¨í„°ê³µí•™', 'profile', 'ì „ë¶ëŒ€ ê¹€ìˆ˜ë¯¼']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Â© {year} Me. This work is licensed under {license}'
+    notice: 'ì§¤ {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
