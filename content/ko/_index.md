@@ -33,8 +33,6 @@ sections:
           icon_pack: fas
           style: "margin-right: 10px;"
           # description: <span style="font-size:90%">여행을 다니는 걸 좋아합니다. 국내여행, 해외여행 모두 좋아하며 앞으로도 꾸준히 여행 다닐 예정입니다.</span><br><br>
-    design:
-      class: "custom-icon-spacing"
 
 
   - block: features
@@ -61,8 +59,6 @@ sections:
           icon_pack: fas
           style: "margin-right: 10px;"
           # description:  <span style="font-size:90%">영화 보는 것을 좋아합니다. .</span><br><br>
-    design:
-      class: "features-container"
 
 
   - block: slider
