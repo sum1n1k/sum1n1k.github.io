@@ -13,7 +13,7 @@ main:
     weight: 100
   - parent: Introduction
     name: About ME
-    url: /author/김수민/
+    url: /author/源��닔誘�/
     weight: 110
   - parent: Introduction
     name: History
@@ -26,7 +26,7 @@ main:
     weight: 200
   - parent: Education
     name: Lectures Taken
-    url: /author/이경수/
+    url: /author/�씠寃쎌닔/
     weight: 210
   - parent: Education
     name: Programming Languages
@@ -35,11 +35,11 @@ main:
 
 
   - name: Activities
-    url: publication
+    url: field
     weight: 300
   - parent: Activities
     name: Projects
-    url: publication
+    url: project
     weight: 310
   - parent: Activities
     name: School Clubs
@@ -65,7 +65,7 @@ main:
     weight: 700
   - parent: Contact
     name: About LOGO
-    url: event
+    url: publication
     weight: 710
   - parent: Contact
     name: How to Contact
