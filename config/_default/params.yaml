@@ -19,7 +19,7 @@ marketing:
     org_name: '전북대학교'
     description: '전북대학교 컴퓨터공학부(컴퓨터공학) 김수민의 자기소개 사이트입니다.'
     twitter: ''
-    keywords: ['전북대학교', '컴퓨터공학부', '컴퓨터공학', 'profile', '전북대 김수민']
+    keywords: ['전북대학교', '컴퓨터공학부', '컴퓨터공학', '김수민, 'profile', '전북대 김수민']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -46,6 +46,7 @@ header:
       filename: "LOGO.png"
     button:
       enable: true
+      text: "김수민"
       url: "https://sum1n1k.github.io/"
 
 # Site footer
