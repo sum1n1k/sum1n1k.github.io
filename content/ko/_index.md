@@ -74,7 +74,7 @@ sections:
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: nasa-2W-QWAC0mzI-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
@@ -91,7 +91,7 @@ sections:
         align: center
         background:
           image:
-            filename: Ai.jpg
+            filename: chris-liverani-dBI_My696Rk-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
@@ -102,7 +102,7 @@ sections:
         align: center
         background:
           image:
-            filename: healthcare.jpg
+            filename: bernd-dittrich-uL1TI7xyLHQ-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
@@ -124,7 +124,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
@@ -135,7 +135,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: israel-palacio-Y20JJ_ddy9M-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
@@ -146,7 +146,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: jeremy-yap-J39X2xX_8CQ-unsplash.jpg
             filters:
               brightness: 0.4
           position: center
