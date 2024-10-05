@@ -12,9 +12,7 @@ sections:
       username: admin
       text: <br><span style="font-size:110%">**안녕하세요, 전북대학교 컴퓨터공학부 22학번 김수민입니다.** <br><span style="font-size:70%">현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.</span> <br> **[⭐더 자세히 알아보기⭐](/ko/author/김수민/)**<br><br>
     design:
-      backgroung:
-        image:
-          filename: tiago-ferreira-Yw35FMpMAtE-unsplash.jpg
+      filename: tiago-ferreira-Yw35FMpMAtE-unsplash.jpg
 
   - block: features
     content:
