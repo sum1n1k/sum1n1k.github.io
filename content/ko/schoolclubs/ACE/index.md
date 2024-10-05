@@ -1,6 +1,9 @@
 ---
 title: ACE(에이스)
 
+event: ACE
+event_url: https://www.instagram.com/jbnu_ace
+
 location: 전북대학교 제2학생회관 308호
 
 summary: 전북대학교 테니스 중앙 동아리
@@ -10,6 +13,9 @@ abstract: ACE는 전북대학교 테니스 동아리로서 sportsmanship 아래�
 date: '2022-03-01'
 date_end: '2022-06-20'
 all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-10-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -26,8 +32,21 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
 ---
 
 - **활동계획** 수요모임, 신입생 환영회, 창립기념일 행사, 춘계/추계 MT, 국립대학 테니스대회, 전국 대학동아리 테니스대회, ACE OPEN, 전라북도 대학 테니스대회, LT 등
 - **모집대상** 1, 2학년 전북대학교 재학중인 학우님들
-- **문의사항** [I.S. 오픈채팅방](https://www.instagram.com/jbnu_ace)
+- **문의사항** [ACE 인스타그램](https://www.instagram.com/jbnu_ace)

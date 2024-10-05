@@ -1,6 +1,9 @@
 ---
 title: Byeolmuri(별무리)
 
+event: Byeolmuri
+event_url: https://www.instagram.com/jbnu_byeolmuri
+
 location: 전북대학교 동아리전용관 221호
 
 summary: 전북대학교 천문 중앙 동아리
@@ -10,6 +13,9 @@ abstract: 별무리는 별과 우주를 좋아하는 사람들이 모여 천체�
 date: '2023-09-01'
 date_end: '2023-12-22'
 all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-10-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -26,6 +32,19 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
 ---
 
 - **활동계획** 맑은 날 동아리 천체 관측회 개회, 별자리/달/일식 등 천체 관련 교육 및 망원경 작동법 교육, 공개 관측회 참여

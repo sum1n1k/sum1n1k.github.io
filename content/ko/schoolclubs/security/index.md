@@ -1,6 +1,9 @@
 ---
 title: Invisible Shield(I.S.,아이에스)
 
+event: Invisible Shield
+event_url: https://open.kakao.com/o/sVIMvM7d
+
 location: 전북대학교 공과대학 7호관 101호
 
 summary: 전북대학교 컴퓨터공학부 정보보안 동아리
@@ -10,6 +13,9 @@ abstract: 정보화 시대에 정보의 가치는 대두되고 있고, 그로 �
 date: '2023-09-01'
 date_end: '2023-12-22'
 all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-10-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -26,6 +32,19 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
 ---
 
 - **활동계획** 학기 중 분기별 진행되는 세미나, 학기별로 진행되는 보안 스터디, MT, 개강/종강 모임

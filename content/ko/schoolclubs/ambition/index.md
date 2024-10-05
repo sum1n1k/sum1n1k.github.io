@@ -1,6 +1,9 @@
 ---
 title: Ambition(야망)
 
+event: Ambition
+event_url: https://www.instagram.com/jbnu_ambition?igshid=ZDdkNTZiNTM=
+
 location: 전북대학교 동아리전용관 지하
 
 summary: 전북대학교 밴드 중앙 동아리
@@ -10,6 +13,9 @@ abstract: 야망은 처음 입부 시 23,000원만 납부하시면 평생 야망
 date: '2023-03-02'
 date_end: '2023-06-20'
 all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-10-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -26,6 +32,19 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
 ---
 
 - **활동계획** 악기를 배우고 싶은 동아리원을 대상으로 해당 악기를 담당 활동 기수가 직접 티칭, 정기 공연, 버스킹 등
