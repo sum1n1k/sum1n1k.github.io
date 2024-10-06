@@ -1,40 +1,22 @@
 ---
-title: People
-date: 2024-06-11
+title: Lectures
+date: 2024-10-06
 
 type: landing
 
 sections:
-  - block: people
+  - block: list
     content:
-      title: Professor
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Professor
-      sort_by: Params.last_name
-      sort_ascending: true
+      title: 1ÇĞ³â
+      text: C¾ğ¾î±âÃÊ<br>¼öÇĞ 1<br>°íÀü.¸íÀúÀĞ±â<br>ÀÏ¹İ¹°¸®ÇĞ 1<br>¼­¾ç»çÀÇÀÌÇØ<br>Åë°èÀû»ç°í°ú »çÈ¸<br>´ëÇĞ»ıÈ°°ú Áø·Î¼³°è<br>
     design:
       show_interests: false
       show_role: true
       show_social: true
 
-  - block: people
+  - block: list
     content:
-      title: Student Researchers
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-        - Student
-          # - ë°•ì‚¬ê³¼ì •
-          # - ì„ì‚¬ê³¼ì •
-          # - í•™ë¶€ì—°êµ¬ìƒ
-          # - Principal Investigators
-          # - Researchers
-          # - Grad Students
-          # - Administration
-          # - Visitors
-          # - Alumni
+      title: 2ÇĞ³â
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -42,4 +24,12 @@ sections:
       show_role: false
       show_social: false
       columns: 2
+
+    - block: list
+    content:
+      title: 3ÇĞ³â
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 ---
