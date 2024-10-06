@@ -181,23 +181,30 @@ sections:
       background: {}
       spacing: {padding: [0, 0, 0, 0]}
 
-  # - block: collection
-  #   content:
-  #     id: section-1
-  #     title: Notifications & News
-  #     subtitle:
-  #     text:
-  #     count: 3
-  #     offset: 0
-  #     order: desc
-  #     filters:
-  #       folders:
-  #         - notification
-  #         - post
-  #         - event
-  #   design:
-  #     view: community/custom_card
-  #     columns: '2'
+  - block: collection
+    content:
+      title: School Clubs
+      subtitle: '학교 생활 중 참여했던 동아리'
+      text:
+      count: 5
+      offset: 0
+      order: desc
+      page_type: schoolclubs
+      # filters:
+      #   author: ""
+      #   category: ""
+      #   tag: ""
+      #   exclude_featured: false
+      #   exclude_future: false
+      #   exclude_past: false
+      #   publication_type: ""
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+    
 
   # - block: collection
   #   content:
