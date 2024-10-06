@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: list
     content:
-      title: 1ÇĞ³â
-      text: C¾ğ¾î±âÃÊ<br>¼öÇĞ 1<br>°íÀü.¸íÀúÀĞ±â<br>ÀÏ¹İ¹°¸®ÇĞ 1<br>¼­¾ç»çÀÇÀÌÇØ<br>Åë°èÀû»ç°í°ú »çÈ¸<br>´ëÇĞ»ıÈ°°ú Áø·Î¼³°è<br>
+      title: 1í•™ë…„
+      text: Cì–¸ì–´ê¸°ì´ˆ<br>ìˆ˜í•™ 1<br>ê³ ì „.ëª…ì €ì½ê¸°<br>ì¼ë°˜ë¬¼ë¦¬í•™ 1<br>ì„œì–‘ì‚¬ì˜ì´í•´<br>í†µê³„ì ì‚¬ê³ ê³¼ ì‚¬íšŒ<br>ëŒ€í•™ìƒí™œê³¼ ì§„ë¡œì„¤ê³„<br>
     design:
       show_interests: false
       show_role: true
@@ -16,7 +16,7 @@ sections:
 
   - block: list
     content:
-      title: 2ÇĞ³â
+      title: 2í•™ë…„
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -27,7 +27,7 @@ sections:
 
     - block: list
     content:
-      title: 3ÇĞ³â
+      title: 3í•™ë…„
     design:
       show_interests: false
       show_role: true
