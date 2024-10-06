@@ -14,7 +14,7 @@ sections:
       show_role: true
       show_social: true
 
-  - block: list
+  - block: landing
     content:
       title: 2학년
       sort_by: Params.last_name
@@ -25,7 +25,7 @@ sections:
       show_social: false
       columns: 2
 
-    - block: list
+  - block: landing
     content:
       title: 3학년
     design:
