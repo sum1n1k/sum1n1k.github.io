@@ -192,10 +192,11 @@ sections:
       page_type: schoolclubs
     design:
       # Choose a layout view
-      view: grid
+      view: article-grid
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+      columns: 5
     
 
   # - block: collection
