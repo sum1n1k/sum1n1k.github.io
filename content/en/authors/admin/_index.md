@@ -1,59 +1,59 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 김수민
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sumin
+last_name: Kim
+
+# Username (this should match the folder name)
+authors:
+  - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: 전북대학교 컴퓨터인공지능학부
+    url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 현재 컴퓨터공학을 주전공하고 있으며 통계학을 추가로 공부하기 위해 빅데이터AI를 연계전공하고 있습니다. 진로를 확실하게 정하지 못해 여러가지 분야를 경험해보고자 활동하고 있으며, 가장 최근에는 AI에 대한 심화 학습을 진행하고 있습니다.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 인공지능 (AI)
+  - 빅데이터 (Big-Data)
+  - 천문학 (Astronomy)
+  - 정보보안 (Information Security)
+  - 항공우주 (Aerospace)
+  - 개발 (Development & Deploy)
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in (컴퓨터공학부(컴퓨터공학))
+      institution: 전북대학교
+      year: 2022 ~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:sumnk27@jbnu.ac.kr'
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/sum_n03?igsh=MThpZjdzcm9hbWNwYQ%3D%3D&utm_source=qr
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sum1n1k
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,17 +61,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sumnk27@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - admin
+
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+처음 제 자신의 개인정보 보호에 대한 관심으로 시작해 컴퓨터로 번진 흥미로 인해 2022년 전북대학교 컴퓨터공학부에 입학하여 현재까지 학부생으로서 공부하고 있습니다. 또한 1학년 때 교양 수업으로 들었던 통계학에 재미를 느껴 2023년부터 빅데이터AI를 연계전공하고 있습니다. 현재 학부연구생으로서 MacsLab에 소속되어 있으며, 학창시절 좋아했던 우주와 천제, 지구과학에 대한 관심을 확장시켜 항공우주AI 분야를 연구해보려 하고 있습니다. 그에 더하여 앞으로 보안 공부도 조금씩 해보려고 합니다.

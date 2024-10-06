@@ -48,11 +48,11 @@ main:
     weight: 600
   - parent: Future Plans
     name: Job-Related
-    url: notification
+    url: jobrelated
     weight: 610
   - parent: Future Plans
     name: Not Job-Related
-    url: post
+    url: notjobrelated
     weight: 620
 
 
