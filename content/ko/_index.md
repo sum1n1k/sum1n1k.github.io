@@ -190,14 +190,14 @@ sections:
       offset: 0
       order: desc
       page_type: schoolclubs
-      # filters:
-      #   author: ""
-      #   category: ""
-      #   tag: ""
-      #   exclude_featured: false
-      #   exclude_future: false
-      #   exclude_past: false
-      #   publication_type: ""
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
     design:
       # Choose a layout view
       view: date-title-summary
