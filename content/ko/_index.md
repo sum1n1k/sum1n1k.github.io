@@ -183,7 +183,7 @@ sections:
 
   - block: collection
     content:
-      title: School Clubs
+      title: <br><br>School Clubs
       subtitle: '학교 생활 중 참여했던 동아리'
       text:
       count: 5
@@ -199,6 +199,7 @@ sections:
         exclude_past: false
         publication_type: ""
     design:
+      columns: '5'
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
